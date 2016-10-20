@@ -1,2 +1,3 @@
 # I-love-the-world.
-a life-long leaner.
+a life-long learner.
+I love learning knowledge.
